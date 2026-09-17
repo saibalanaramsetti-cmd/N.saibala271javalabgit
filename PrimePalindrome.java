@@ -37,6 +37,7 @@ public class PrimePalindrome {
             System.out.println(number + " is a prime palindrome.");
         } else {
             System.out.println(number + " is not a prime palindrome.");
+            System.out.println(number + " is not a prime palindrome.");
         }
 
         scanner.close();
